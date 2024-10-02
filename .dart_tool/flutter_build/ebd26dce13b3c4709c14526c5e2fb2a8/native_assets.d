@@ -1,0 +1,1 @@
+ C:\\Users\\labinf6.pasto\\Videos\\todo-sqlite\\.dart_tool\\flutter_build\\ebd26dce13b3c4709c14526c5e2fb2a8\\native_assets.yaml: 
